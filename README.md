@@ -6,6 +6,7 @@ Copy and paste into directory.
 Change directory scan in Gruntfile.js.
 
 Commands are as follow:
+	
 	grunt
 		Run both jscs and jshint.
 
